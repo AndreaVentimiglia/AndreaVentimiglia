@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋, I'm Andrea a software engineer passionate about programming, web development and artificial intelligence
 
 <!--
 **AndreaVentimiglia/AndreaVentimiglia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
