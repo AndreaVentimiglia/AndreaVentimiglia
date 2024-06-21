@@ -9,8 +9,6 @@
 
 - 📄 Know about my experiences https://www.linkedin.com/in/andrea-paolo-ventimiglia-03173621a/
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreaVentimiglia&layout=compact)
-
 <!--
 <h3 align="left">Languages</h3>
 
