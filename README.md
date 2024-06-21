@@ -15,6 +15,10 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AndreaVentimiglia&show_icons=true&locale=en" alt="AndreaVentimiglia" /></p>
 
+![Statistiche GitHub](https://github-readme-stats.vercel.app/api?username=AndreaVentimiglia&show_icons=true&theme=radical)
+![Linguaggi più usati](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreaVentimiglia&layout=compact&theme=radical)
+
+
 <!--
 **AndreaVentimiglia/AndreaVentimiglia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
