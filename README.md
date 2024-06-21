@@ -7,7 +7,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/AndreaVentimiglia?tab=repositories](https://github.com/AndreaVentimiglia?tab=repositories)
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/andrea-paolo-ventimiglia/?locale=en_US](https://www.linkedin.com/in/andrea-paolo-ventimiglia/?locale=en_US)
+- 📄 Know about my experiences https://www.linkedin.com/in/andrea-paolo-ventimiglia-03173621a/
+- 
 
 <!--
 **AndreaVentimiglia/AndreaVentimiglia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
